@@ -1,0 +1,204 @@
+{
+    "firstname": "Audre",
+    "lastname": "Lorde",
+    "contact": {
+      "email": "student@code2040.org",
+      "phone": "(415) 555-1212",
+      "website": "www.code2040.com",
+      "linkedin": "linkedin.com/in/audrelorde",
+      "github": "github.com/audrelorde"
+    },
+    "skills": {
+      "details": [
+        {
+          "type": "Programming Languages",
+          "items": [
+            "Ruby",
+            "Python",
+            "Java",
+            "C++",
+            "Javascript",
+            "PHP"
+          ]
+        },
+        {
+          "type": "Web Frameworks",
+          "items": [
+            "Node",
+            "Django",
+            "Rails",
+            "Phoenix"
+          ]
+        },
+        {
+          "type": "Databases",
+          "items": [
+            "MySQL",
+            "PostgreSQL",
+            "Redis"
+          ]
+        },
+        {
+          "type": "Tools",
+          "items": [
+            "Git",
+            "Heroku",
+            "AWS",
+            "Elasticsearch",
+            "Hadoop"
+          ]
+        },
+        {
+          "type": "Interests",
+          "items": [
+            "Big Data",
+            "Machine Learning",
+            "Web Development"
+          ]
+        }
+      ]
+    },
+    "github_projects": {
+      "items": [
+        {
+          "project_name": "chenshuiluke/ng-hackernews",
+          "tagline": "[ng-hackernews.lukecs.com](https://ng-hackernews.lukecs.com/)",
+          "description": [
+            "Browse HackerNews without having to open tabs to view comments or having to click to go to the next page."
+          ],
+          "technology_used": {
+            "tools": [
+              "Python",
+              "Django",
+              "PostgreSQL"
+            ]
+          }
+        },
+        {
+          "project_name": "AdiChat/Repository-Hunter",
+          "tagline": "[repository-hunter.herokuapp.com](http://repository-hunter.herokuapp.com/)",
+          "description": [
+            "Making GitHub more socially engaging and fun for all"
+          ],
+          "technology_used": {
+            "tools": [
+              "Python",
+              "Django",
+              "PostgreSQL"
+            ]
+          }
+        }
+      ]
+    },
+    "other_projects": {
+      "items": [
+        {
+          "headline": "Designed a silent slackbot called _Omerta_, for a school project.",
+          "points": [
+            "Was awarded 1<sup>st</sup> prize for brevity of code."
+          ],
+          "technology_used": {
+            "tools": [
+              "Python",
+              "Django",
+              "PostgreSQL"
+            ]
+          }
+        }
+      ]
+    },
+   "work_experience": {
+      "items": [
+        {
+          "title": "Summer Intern 2023",
+          "organization": "Intel",
+          "location": "San Francisco, CA",
+          "from": "June 2023",
+          "to": "August 2023",
+          "details": [
+            "Wrote an open source ruby gem _Skipper_ that coordinates automated deployment over websocket. Live at <<skippergem.io>>"
+          ],
+          "technology_used": {
+            "tools": [
+              "Python",
+              "Django",
+              "PostgreSQL"
+            ]
+          }
+        }
+      ]
+    },
+    "involvement": {
+      "organizations": [
+        "Volunteer, Habitat for Humanity, Montgomery, AL, Fall 2021 to Present",
+        "HACK2021, a 12 hour hackathon that brings together Black and Latinx students from local high schools, Spring 2024",
+        "She++, Ambassador for the Philadelphia area, Fall 2022 to Present"
+      ]
+    },
+    "achievements": {
+      "items": [
+        "Awarded 2<sup>nd</sup> position in Alameda County Science Fair, October 2022",
+        "Chameleon John USA University Student Scholarship",
+        "President, Homebrew Rubyists Club"
+      ]
+    },
+    "additional_info": {
+      "items": [
+        "Languages: English (fluent), Spanish (fluent), German (proficient), Mandarin (business), French (basic)",
+        "Interests: Surfing, Board Games, Mathematics, Musical Theater."
+      ]
+    },
+    "education": {
+      "schools": [
+        {
+          "degree": "Bachelor of Science",
+          "major": "Computer Science",
+          "institution": "University of Texas at Austin",
+          "graduation_year": 2025
+        }
+      ]
+    },
+    "undergrad_courses": [
+      {
+        "name": "Network Systems",
+        "url": "http://www.facweb.iitkgp.ernet.in/~agupta/netlab/"
+      },
+      {
+        "name": "Graph Theory",
+        "url": "http://cse.iitkgp.ac.in/~agupta/graph/"
+      },
+      {
+        "name": "Feature Oriented Programming",
+        "url": "http://www.cs.utexas.edu/users/dsb/cs392f"
+      },
+      {
+        "name": "Multicore Programming",
+        "url": "http://www.cs.utexas.edu/~pingali/CS395T/2013fa"
+      }
+    ],
+    "grad_courses": [
+      {
+        "name": "Distributed Computing",
+        "url": "http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/13F/"
+      }
+     ],
+    "research_experience": {
+      "items": [
+        {
+          "title":"Summer Lab Assistant",
+          "organization": "Network Systems Lab, University of Pittsburgh",
+          "from": "May 2022",
+          "to": "June 2022",
+          "points": [
+            "Design and simulation of currently published Pull-based Freshness Schemes in C++."
+          ]
+        }
+      ]
+    },
+    "show_assessments_on_resume": {
+      "required_assessment": true,
+      "optional_assessment_1": true,
+      "optional_assessment_2": true,
+      "optional_assessment_3": true
+    }
+  }
